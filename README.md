@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Ethan. [View My Website](https://iflysohigh.github.io)
+# Hi there! 👋 I'm Ethan. [View My Website](https://ethanwhyy.github.io)
 
 ---
 
 ## About Me
-- 💡 **Current Hyperfixation**: Retirement savings optimization *and* entrepreneurship
+- 💡 **Current Hyperfixation**: Coding minimalist applications *and* entrepreneurship
 - 🎓 **Education**: 2x B.A. in Economics and Computer Science
 - 🌍 **Based In**: New York City
 - 🎯 **Long-Term Goal**: Oversee new initiatives and reorganization to align employee and company goals through data analytics 
