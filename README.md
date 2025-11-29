@@ -6,7 +6,6 @@
 - 💡 **Current Hyperfixation**: Coding minimalist applications *and* entrepreneurship
 - 🎓 **Education**: 2x B.A. in Economics and Computer Science
 - 🌍 **Based In**: New York City
-- 🎯 **Long-Term Goal**: Oversee new initiatives and reorganization to align employee and company goals through data analytics 
 - 🏊 **Swimming**: Former competitive swimmer with an affinity to the water
 - 👀 **Interests**: Coding, data analytics, statistics, and economic theory
 
