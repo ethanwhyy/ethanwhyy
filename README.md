@@ -6,7 +6,7 @@
 - 💡 **Current Hyperfixation**: Coding minimalist applications *and* entrepreneurship
 - 🎓 **Education**: 2x B.A. in Economics and Computer Science
 - 🌍 **Based In**: New York City
-- 🏊 **Swimming**: Former competitive swimmer with an affinity to the water
+- 🏊 **Swimming**: Former competitive swimmer with an affinity to water
 - 👀 **Interests**: Coding, data analytics, statistics, and economic theory
 
 ---
